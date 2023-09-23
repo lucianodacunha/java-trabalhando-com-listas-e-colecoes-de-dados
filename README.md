@@ -1,1 +1,9 @@
 # java-trabalhando-com-listas-e-colecoes-de-dados
+
+## Para saber mais:
+
+- [Ordenando coleções com Comparable e Comparator](https://www.alura.com.br/artigos/ordenando-colecoes-com-comparable-e-comparator?_gl=1*1hbss28*_ga*MTc3NTM0NzMwNi4xNjczODg5Nzkz*_ga_1EPWSW3PCS*MTY5NTM0MzExMS45NS4xLjE2OTUzNDM1ODcuMC4wLjA.*_fplc*dXpEbTZZN0Z1UDhpUDBqQ0VRWHZCcnhZQTVmZDZyJTJGZVdVVnVrYlo1U0pIMG1LaDlmejBBSWcyTFFOR0l1VHQ3WndsRXdKTjlLY2NuR1RVTW9mdWRZZTM3MlZLb2lWS3o3ZTBkSUYxclg5QyUyRnVKRTVuSXJWdkQzUHduUGFBdyUzRCUzRA..)
+
+- [Estruturas de dados: uma introdução](https://www.alura.com.br/artigos/estruturas-de-dados-introducao?_gl=1*1sy4vyg*_ga*MTc3NTM0NzMwNi4xNjczODg5Nzkz*_ga_1EPWSW3PCS*MTY5NTQxMjg2MC45Ni4xLjE2OTU0MTQ5MzMuMC4wLjA.*_fplc*NzZSVDVjcTF1OWJnbUw1VzVCMnpBQWRRJTJCSXZ5eXJxVm9aNnhlclp2RFlyRDYlMkZMMTdZWHJ5azl0SlZ6b0E0ZUFjN25LcjhDQnQwSiUyQml2cFVXRUxzd2F0cFJJcWdIOWdQRFJsWGVvbFg1bXFldlJveVRiJTJGalQ0WEd5TGszYUElM0QlM0Q.)
+
+- [Estrutura de Dados: computação na prática com Java](https://www.alura.com.br/artigos/estrutura-dados-computacao-na-pratica-com-java?_gl=1*1sy4vyg*_ga*MTc3NTM0NzMwNi4xNjczODg5Nzkz*_ga_1EPWSW3PCS*MTY5NTQxMjg2MC45Ni4xLjE2OTU0MTQ5MzMuMC4wLjA.*_fplc*NzZSVDVjcTF1OWJnbUw1VzVCMnpBQWRRJTJCSXZ5eXJxVm9aNnhlclp2RFlyRDYlMkZMMTdZWHJ5azl0SlZ6b0E0ZUFjN25LcjhDQnQwSiUyQml2cFVXRUxzd2F0cFJJcWdIOWdQRFJsWGVvbFg1bXFldlJveVRiJTJGalQ0WEd5TGszYUElM0QlM0Q.)
